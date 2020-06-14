@@ -14,3 +14,4 @@ npm-debug.log
 yarn-error.log
 .idea
 package-lock.json
+public/mix-manifest.json
