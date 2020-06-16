@@ -65,9 +65,6 @@
                             <strong>Total:</strong> &pound;0.00
                         </div>
                         <div class="flex-shrink">
-                            <button type="button" class="py-2 px-3 bg-green-600 hover:bg-green-700 focus:bg-green-700 text-white rounded shadow-sm">
-                                View basket
-                            </button>
                             <button type="button" class="py-2 px-3 bg-indigo-600 hover:bg-indigo-700 focus:bg-indigo-700 text-white rounded shadow-sm">
                                 Checkout
                             </button>
